@@ -1,0 +1,8 @@
+{
+    "applicationUrl":  "",
+    "authService": "",
+    "defaultPage":  "",
+    "userName":  "test",
+    "userPassword":  "test",
+    "beforeTimeout":  30000
+}
